@@ -1,0 +1,27 @@
+/* paragraf.style.backgroundColor = "red";
+paragraf.style.padding = "10px";
+paragraf.style.color = "white";
+paragraf.style.fontSize = "30px"; */
+
+.text {
+  background-color: red;
+  padding: 10px;
+  color: white;
+  font-size: 30px;
+}
+
+.title-3 {
+  text-align: center;
+  background-color: yellow;
+  font-size: 40px;
+  font-family: monospace;
+  padding: 5px 10px;
+}
+
+.heading {
+  background-color: chocolate;
+  font-size: 40px;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 10px;
+}
